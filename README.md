@@ -1,7 +1,7 @@
 Photoshop Etiquette
 ===========
 
-# FILE ORGANIZATION
+## FILE ORGANIZATION
 - Consolidate your PSD files. Only use a minimal number of PSDs.
 - Name files appropriately. 
 For example: "ClientName_desktop.psd", "ClientName_tablet.psd" and "ClientName_mobile.psd". 
@@ -11,10 +11,10 @@ Not: "newest.psd", "LATEST.psd" or "Final_v2.psd".
 - Make a separate template or style guide for setting typography (font families, sizes, colours, etc.). This helps making sure that the typography stays consisted throughout the project.
 
 
-# SETTING TYPOGRAPHY
+## SETTING TYPOGRAPHY
 - Set font size in pixels, not points.
 - Use whole pixel values. Refrain from resizing text with the Free Transform tool and give it a whole number value instead.
 
 
-# IMAGE ELEMENTS
+## IMAGE ELEMENTS
 - Keep logos, icons, buttons and other graphical elements as vector smart objects. This helps when resizing is needed.
