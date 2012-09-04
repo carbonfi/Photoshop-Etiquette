@@ -1,5 +1,5 @@
 # Photoshop Etiquette
-These are a list of common practices we've gathered for delivering design materials to improve the clarity of a PSD's when transferred them from design to production. 
+These are a list of common practices we've gathered for delivering design materials to improve the clarity of a PSD's when transferred from design to production. 
 
 
 ## External file organisation
