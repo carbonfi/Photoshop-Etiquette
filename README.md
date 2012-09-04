@@ -2,7 +2,7 @@
 These are a list of common practices we've gathered for delivering design materials to improve the clarity of a PSD's when transferred them from design to production. 
 
 
-## File organisation
+## External file organisation
 - **Consolidate your PSD files.** Only use a minimal number of PSDs.
 - **Name files appropriately.** 
 For example: "ClientName_desktop.psd", "ClientName_tablet.psd" and "ClientName_mobile.psd". 
@@ -12,10 +12,19 @@ Not: "newest.psd", "LATEST.psd" or "Final_v2.psd".
 - **Make a separate template or style guide for setting typography (font families, sizes, colours, etc.).** This helps making sure that the typography stays consisted throughout the project.
 
 
+## Internal file organisation
+- **Name layers appropriately.**
+- **Organise layers in folders.**
+- **Delete unnecessary layers.**
+- **Use layer comps and smart objects.**
+
+
 ## Setting typography
 - **Set font size in pixels, not points.**
 - **Use whole pixel values.** Refrain from resizing text with the Free Transform tool and give it a whole number value instead.
+- **Set type colour with colour picker, not using opacity or fill.**
+- **Don't rasterize or flatten type.**
 
 
 ## Image elements
-- **Keep logos, icons, buttons and other graphical elements as vector smart objects.** This helps when resizing is needed.
+- **Keep logos, icons, buttons and other graphical elements as vector smart objects.** This helps when creating retina assets or if resizing is needed.
