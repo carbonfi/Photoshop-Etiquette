@@ -27,4 +27,4 @@ Not: "newest.psd", "LATEST.psd" or "Final_v2.psd".
 
 
 ## Image elements
-- **Keep logos, icons, buttons and other graphical elements as vector smart objects.** This helps when creating retina assets or if resizing is needed.
+- **Keep logos, icons, buttons and other graphical elements as vector smart objects.** This is required for creating assets for high pixel ratio displays (Retina displays) or if resizing is needed.
